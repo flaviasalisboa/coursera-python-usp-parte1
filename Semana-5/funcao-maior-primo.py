@@ -1,3 +1,9 @@
+# Semana 5 - Exercício 2 - Função maior_primo que
+# retorna o maior número primo existente até o 
+# n informado - para isso a função usa outra função
+# criada, a função éPrimo que retorna True caso o 
+# número seja primo e False se não é primo
+
 def ePrimo(k):
 	e_primo = True
 	# procura um divisor de n entre 2 e n-1
