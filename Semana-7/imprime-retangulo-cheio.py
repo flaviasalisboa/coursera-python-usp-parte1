@@ -1,3 +1,6 @@
+# Semana 7 - Exercício 1 - Imprime retângulo cheio
+# com os caracteres #####
+
 largura = int(input("Digite a largura: "))
 altura = int(input("Digite a altura: "))
 

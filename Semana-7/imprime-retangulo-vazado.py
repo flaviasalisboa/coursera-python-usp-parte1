@@ -1,3 +1,6 @@
+# Semana 7 - Exercício 2 - Imprime retângulo vazado
+# com os caracteres #####, sem preencher o meio
+
 largura = int(input("Digite a largura: "))
 altura = int(input("Digite a altura: "))
 
