@@ -90,8 +90,8 @@ def campeonato():
 # Inicio do Jogo do NIM - acima estao todas as funcoes usadas no programa    
 print("Bem-vindo ao jogo do NIM! Escolha:")
 print()
-print("1 - para jogar uma partida isolada")
-print("2 - para jogar um campeonato")
+print("1 - para jogar uma partida isolada ")
+print("2 - para jogar um campeonato ")
 escolha = int(input(""))
 	
 if (escolha != 1 and escolha != 2):
