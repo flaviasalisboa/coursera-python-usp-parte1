@@ -1,3 +1,6 @@
+# Semana 2 - Exercício 2 - Calcula a média aritmética dadas
+# quatro notas
+
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
 nota3 = float(input("Digite a terceira nota: "))
